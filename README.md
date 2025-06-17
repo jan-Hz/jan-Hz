@@ -1,3 +1,29 @@
+![Banner de GitHub](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
+## ¿Quién soy?
+
+```python
+class QuienSoy:
+    usuario = 'Jan-Hz'
+    estudios_actuales = "Hacker Ético"
+    aprendiendo_actualmente = "Python y Bash"
+    dato_curioso = "Soy hincha del Barcelona"
+    pasatiempos = [
+        'Música',
+        'Fútbol',
+        'Gaming',
+        'Ver a s4vitar y mario (y más hackers de máxima tensión)'
+    ]
+    
+    def obtenerCiudad():
+        return 'Soy de Ciudad de México'
+    
+    def ambiciones():
+        TerminarMisProyectos()
+        ConvertirmeEnIngenieroDeSoftware()
+        ConvertirmeEnHackerDeRedTeam()
+```
+
 ## Estadísticas de GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=jan-Hz&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jan-Hz&theme=blueberry_duo"/>
