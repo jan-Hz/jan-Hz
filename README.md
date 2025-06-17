@@ -23,13 +23,6 @@ class QuienSoy:
         ConvertirmeEnIngenieroDeSoftware()
         ConvertirmeEnHackerDeRedTeam()
 ```
-
-## Estadísticas de GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=jan-Hz&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jan-Hz&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan-Hz&layout=compact&theme=github_dark"/>|
-
 ## Herramientas de Ciberseguridad
 
 <p>
