@@ -5,8 +5,8 @@
 ```python
 class QuienSoy:
     usuario = 'Jan-Hz'
-    estudios_actuales = "Hacker Ético"
-    aprendiendo_actualmente = "Python y Bash"
+    estudios_actuales = "Hacker Ético" | 'Ciberseguridad' | 'Programador'
+    lenugaje_aprendiendo_actualmente = "Python y Bash"
     dato_curioso = "Soy hincha del Barcelona"
     pasatiempos = [
         'Música',
